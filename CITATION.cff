@@ -11,8 +11,8 @@ message: >-
 type: software
 authors:
   - given-names: André
-    family-names: M.F.
-    name-suffix: Luis
+    family-names: 
+    name-suffix: L.M.F.
     name-particle: Santos
     email: andre@institutoredi.org
     affiliation: Instituto REDI
