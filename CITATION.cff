@@ -10,8 +10,8 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: A.L.M.F.
-    family-names: 
+  - given-names: André
+    family-names: L.M.F.
     name-suffix:
     name-particle: Santos
     email: andre@institutoredi.org
