@@ -11,8 +11,8 @@ message: >-
 type: software
 authors:
   - given-names: André
-    family-names: Marques Ferreira dos
-    name-suffix: Luis
+    family-names:
+    name-suffix: Luis Marques Ferreira dos
     name-particle: Santos
     email: andre@institutoredi.org
     affiliation: Instituto REDI
