@@ -10,10 +10,10 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: André
-    family-names: Santos
+  - given-names: André Luis
+    family-names: Marques Ferreira dos
     name-suffix: André
-    name-particle: Luis Marques Ferreira
+    name-particle: Santos
     email: andre@institutoredi.org
     affiliation: Instituto REDI
     orcid: 'https://orcid.org/0000-0002-5232-0781'
