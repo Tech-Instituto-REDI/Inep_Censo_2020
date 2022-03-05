@@ -3,16 +3,16 @@
 
 cff-version: 1.2.0
 title: >-
-  Manipulação dos dados dos Resultados do Censo da
+  Programa para manipulação dos dados dos Resultados do Censo da
   Educação Superior 2020 disponíveis
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: André Luis
+  - given-names: André
     family-names: Marques Ferreira dos
-    name-suffix: André
+    name-suffix: Luis
     name-particle: Santos
     email: andre@institutoredi.org
     affiliation: Instituto REDI
